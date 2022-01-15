@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "github-webhook-handler": "^0.7.1",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   }
 }
